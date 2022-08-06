@@ -7,6 +7,6 @@ terraform {
   }
 }
 provider "aws" {
-  profile = "default"
+  profile = "Alok"
   region  = "ap-southeast-2"
 }
